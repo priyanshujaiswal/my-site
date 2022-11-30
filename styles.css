@@ -1,4 +1,74 @@
 body{
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
+  /* margin:0 5rem; */
+}
+
+.navv{
+  background-color: #DEF5E5;
+  text-align: center;
+  padding: 1rem;
+  padding-bottom: 3rem;
+}
+
+.meriphoto{
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  /* padding: 1.2rem; */
+  /* margin-right: 5rem */
+}
+.itr{
+  vertical-align: middle;
+  text-align: left;
+}
+.intro{
+    margin-top:3rem;
+font-size: 2.1rem;
+  font-weight: 80;
+  vertical-align: middle;
+  color: #8EC3B0;
+
+}
+
+.navclr{
+background-color: #DEF5E5;
+}
+
+.section2{
+  background-color: #8EC3B0;
+  text-align: center;
+  padding: 3rem;
+  color: #DEF5E5;
+  margin: 0;
+}
+
+#interests{
+  margin-bottom: 4rem;
+  font-size: 3rem;
+}
+.coding{
+  height: 100px;
+  width: 100px;
+
+  /* display: inline-block; */
+  /* padding: 2rem; */
+}
+.cdngtext{
+  font-size: 2rem;
+  color: #BCEAD5;
+
+  /* display: inline-block; */
+  /* padding: 2rem; */
+
+}
+
+.hey{
+      vertical-align: middle;
+}
+.text{
+  text-align: left;
+}
+.padtp{
+  margin-top: 2rem;
 }
