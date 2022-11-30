@@ -50,17 +50,12 @@ background-color: #DEF5E5;
 .coding{
   height: 100px;
   width: 100px;
-
-  /* display: inline-block; */
-  /* padding: 2rem; */
+padding: 0.5rem;
 }
 .cdngtext{
   font-size: 2rem;
   color: #BCEAD5;
-
-  /* display: inline-block; */
-  /* padding: 2rem; */
-
+  margin-bottom: 0;
 }
 
 .hey{
