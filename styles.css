@@ -4,13 +4,16 @@ body{
   /* margin:0 5rem; */
 }
 
-.navv{
+.navv, .section3{
   background-color: #DEF5E5;
   text-align: center;
   padding: 1rem;
   padding-bottom: 3rem;
 }
 
+/* .fix{
+  position: fixed;
+} */
 .meriphoto{
   height: 250px;
   width: 250px;
@@ -28,6 +31,7 @@ font-size: 2.1rem;
   font-weight: 80;
   vertical-align: middle;
   color: #8EC3B0;
+  text-align: left;
 
 }
 
@@ -43,7 +47,7 @@ background-color: #DEF5E5;
   margin: 0;
 }
 
-#interests{
+.hdng{
   margin-bottom: 4rem;
   font-size: 3rem;
 }
@@ -66,4 +70,22 @@ padding: 0.2rem;
 }
 .padtp{
   margin-top: 2rem;
+}
+
+.section3{
+  color: #8EC3B0;
+  padding: 2.5rem;
+}
+
+.cdngtext2{
+  font-size: 2rem;
+  color: #8EC3B0;
+  margin-bottom: 0;
+}
+
+
+@media (max-width : 900px) {
+  .intro{
+    text-align: center;
+  }
 }
